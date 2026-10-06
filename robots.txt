@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://engyasmeen464574574558.github.io/chalet-255/sitemap.xml
